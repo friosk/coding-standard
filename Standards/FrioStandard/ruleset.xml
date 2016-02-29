@@ -11,6 +11,7 @@
  <exclude-pattern>*.css</exclude-pattern>
  <exclude-pattern>*.html</exclude-pattern>
  <exclude-pattern>*.latte</exclude-pattern>
+ <exclude-pattern>*/deployment/*</exclude-pattern>
 
  <rule ref="PSR2">
   <exclude name="Generic.PHP.LowerCaseConstant"/>
